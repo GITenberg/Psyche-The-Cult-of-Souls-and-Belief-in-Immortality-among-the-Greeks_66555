@@ -1,0 +1,32 @@
+_repo: Psyche-The-Cult-of-Souls-and-Belief-in-Immortality-among-the-Greeks_66555
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hillis, W. B. (William Bernard)
+    alias: Hillis, William Bernard
+    gutenberg_agent_id: '53861'
+    url: http://www.gutenberg.org/2009/agents/53861
+creator:
+  author:
+    agent_name: Rohde, Erwin
+    birthdate: 1845
+    deathdate: 1898
+    gutenberg_agent_id: '53860'
+    url: http://www.gutenberg.org/2009/agents/53860
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Erwin_Rohde
+    - https://en.wikipedia.org/wiki/Erwin_Rohde
+description: ''
+gutenberg_issued: '2021-10-17'
+identifiers:
+  gutenberg: '66555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Religion'
+- !lcc 'BL'
+- GITenberg
+title: 'Psyche: The Cult of Souls and Belief in Immortality among the Greeks'
+url: http://www.gutenberg.org/ebooks/66555
