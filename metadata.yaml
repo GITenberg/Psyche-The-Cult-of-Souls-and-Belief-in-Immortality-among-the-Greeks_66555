@@ -6,6 +6,9 @@ contributor:
     alias: Hillis, William Bernard
     gutenberg_agent_id: '53861'
     url: http://www.gutenberg.org/2009/agents/53861
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rohde, Erwin
@@ -17,6 +20,8 @@ creator:
     - https://de.wikipedia.org/wiki/Erwin_Rohde
     - https://en.wikipedia.org/wiki/Erwin_Rohde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66555#Psyche-The-Cult-of-Souls-and-Belief-in-Immortality-among-the-Greeks
 gutenberg_issued: '2021-10-17'
 identifiers:
   gutenberg: '66555'
